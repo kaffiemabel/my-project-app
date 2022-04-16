@@ -1,0 +1,48 @@
+ .container{
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 30px;
+        border: 3px solid black;
+        height: 600px;
+        background-color: rgb(169, 169, 236);
+        }
+        .block{
+            max-width: 20px;
+            padding: 40px;
+            border: 3px solid blue;
+
+        }
+        .panel{
+            border: 1px solid black;
+            width: 30px;
+            padding: 40px;
+            max-width: 20px;
+            height: 140px;
+            font-size: 20px;
+        }
+        
+        .panel{
+            width: 30px;
+        }
+        .fa-solid{ 
+            color: yellow;
+            font-size: 40px;
+            text-align: left;
+        }
+        span{ color: blue;
+        border-radius: 10px;
+        padding: 10px 80px 10px 80px;
+        width: 80px;
+        border: 3px solid royalblue;
+        margin: 0 auto;
+        display:block ;
+        padding-right: 10px 80px;
+        padding-left: 10px 80px;}
+
+        .boot{color: blue;}
+        p{text-align: center;
+          font-size: 30px;
+          font-weight: bold;
+          padding-left: 0;
+          line-height: 1;}
+          h1{line-height: 1;}
